@@ -11,7 +11,7 @@ Table: A table is a structure inside a database that stores data in rows and col
 4) Scalability – can manage small databases or very large enterprise systems.
 5) Integration – works well with other Microsoft tools like Power BI, Excel, and Azure.
 3.
-1) Windows Authentication – uses the Windows user account to connect to SQL Server.
+1) Authentication – uses the Windows user account to connect to SQL Server.
 2) SQL Server Authentication – uses a SQL Server login and password to connect.
 Medium
 4.
@@ -25,6 +25,14 @@ CREATE TABLE Students (
 Sql Server- a database management system developed by Microsoft to store and manage data.
 SSMS- a graphical tool used to connect to SQL Server, write queries and manage databases.
 Sql- a programming language used to communicate with and manage data in SQL Server.
+Hard
+7.
+dql- used  to retrieve data from a database
+example:
+select * from students;
+dml- used to insert, update or delete data in a table
+example:
+
 
 
 
