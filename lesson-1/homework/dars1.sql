@@ -15,6 +15,13 @@ Table: A table is a structure inside a database that stores data in rows and col
 2) SQL Server Authentication – uses a SQL Server login and password to connect.
 Medium
 4.
+create database SchoolDB
+5.
+CREATE TABLE Students (
+    StudentID INT PRIMARY KEY,
+    Name VARCHAR(50),
+    Age INT)
+6.
 
 
 
