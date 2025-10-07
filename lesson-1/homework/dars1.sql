@@ -20,18 +20,29 @@ create database SchoolDB
 CREATE TABLE Students (
     StudentID INT PRIMARY KEY,
     Name VARCHAR(50),
-    Age INT)
+    Age INT);
 6.
 Sql Server- a database management system developed by Microsoft to store and manage data.
 SSMS- a graphical tool used to connect to SQL Server, write queries and manage databases.
 Sql- a programming language used to communicate with and manage data in SQL Server.
 Hard
 7.
-dql- used  to retrieve data from a database
+dql- used  to retrieve data from a database.
 example:
 select * from students;
-dml- used to insert, update or delete data in a table
+dml- used to insert, update or delete data in a table.
 example:
+insert into students values (1,'Ali', 20);
+ddl- used to define or modify database structures.
+example:
+create table teachers (TeacherID INT, Name varchar(50));
+dcl- used to control user access to the database.
+example:
+GRANT SELECT ON Students TO User1;
+tcl- used to manage transactions in a database.
+example:
+
+
 
 
 
