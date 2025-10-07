@@ -41,6 +41,8 @@ example:
 GRANT SELECT ON Students TO User1;
 tcl- used to manage transactions in a database.
 example:
+COMMIT;
+8.
 
 
 
