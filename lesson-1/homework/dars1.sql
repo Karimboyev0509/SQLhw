@@ -11,6 +11,11 @@ Table: A table is a structure inside a database that stores data in rows and col
 4) Scalability – can manage small databases or very large enterprise systems.
 5) Integration – works well with other Microsoft tools like Power BI, Excel, and Azure.
 3.
+1) Windows Authentication – uses the Windows user account to connect to SQL Server.
+2) SQL Server Authentication – uses a SQL Server login and password to connect.
+Medium
+4.
+
 
 
 
