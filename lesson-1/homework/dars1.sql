@@ -22,6 +22,9 @@ CREATE TABLE Students (
     Name VARCHAR(50),
     Age INT)
 6.
+Sql Server- a database management system developed by Microsoft to store and manage data.
+SSMS- a graphical tool used to connect to SQL Server, write queries and manage databases.
+Sql- a programming language used to communicate with and manage data in SQL Server.
 
 
 
