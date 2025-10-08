@@ -43,6 +43,10 @@ tcl- used to manage transactions in a database.
 example:
 COMMIT;
 8.
+insert into Students (studentID, Name, Age)
+values(1, 'Ali', 20),
+       (2, 'Laylo', 21),
+       (3, 'Jasur', 19);
 
 
 
