@@ -47,6 +47,13 @@ insert into Students (studentID, Name, Age)
 values(1, 'Ali', 20),
        (2, 'Laylo', 21),
        (3, 'Jasur', 19);
+9.
+1)Download the backup file
+2)Move the file to the sql server backup folder
+3)Open sql server management studio (ssms) and connect to your server
+4)Restore database
+5)When it’s done, you will see the message:
+Database 'AdventureWorksDW2022' restored successfully.
 
 
 
